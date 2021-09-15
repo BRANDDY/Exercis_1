@@ -4,7 +4,7 @@ void setup() {
     size(800, 600, P2D); // P2D enables 2D GPU acceleration
     background(20);
     text("Clear Screen: L ",20,40);
-    text("Rubber: RIght Click ",20,20);
+    text("Rubber: Right Click ",20,20);
 }
 
 void draw() {  
