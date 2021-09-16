@@ -21,8 +21,7 @@ float circleSize = 12;
     /* size commented out by preprocessor */; // P2D enables 2D GPU acceleration
     background(20);
     text("Clear Screen: L ",20,40);
-    text("Rubber: RIght Click ",20,20);
-
+    text("Rubber: Right Click ",20,20);
 }
 
  public void draw() {  
