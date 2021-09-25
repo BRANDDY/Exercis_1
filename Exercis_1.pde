@@ -1,7 +1,7 @@
 float circleSize = 12;
 
 void setup() {
-    size(800, 600, P2D); // P2D enables 2D GPU acceleration
+    size(800, 600, P2D); 
     background(20);
     text("Clear Screen: L ",20,40);
     text("Eraser: Right Click ",20,20);
